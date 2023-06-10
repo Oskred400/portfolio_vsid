@@ -1,0 +1,44 @@
+h1 {
+    text-decoration: none;
+      display: grid;
+      place-items: center;
+    /* margin-left: 10vw; */
+    .intro-text {
+      font-size: 25px;
+      font-weight: bold;
+      word-wrap: normal;
+      z-index: 10;
+      margin-left: 1vw;
+  }
+  }
+  
+  .NavBar {
+    width: 100%;
+  }
+  
+  .introduction {
+    margin-top: 0.25vh;
+    padding: 1rem;
+    padding-bottom: 0.25vh;
+    /* place-content: center;
+    display: grid; */
+  }
+  
+  .SkillsAndCerts {
+    background-color: azure;
+  
+  }
+  .Experience {
+    background-color: blue;
+  }
+
+  .portfolio_img_class {
+    z-index: 1;
+  }
+
+  .introduction img {
+    padding: 0;
+    min-width: 100%;
+    min-height: 100%;
+    flex-shrink: 0;
+  }

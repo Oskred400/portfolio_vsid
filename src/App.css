@@ -1,0 +1,34 @@
+/* h1 {
+  .intro-text {
+    font-size: 25px;
+    font-weight: bold;
+    word-wrap: normal;
+}
+}
+
+.NavBar {
+  width: 100%;
+}
+
+.introduction {
+  margin-top: 1vh;
+  padding: 1rem;
+  place-content: center;
+  display: grid;
+}
+
+.SkillsAndCerts {
+  background-color: azure;
+
+}
+.Experience {
+  background-color: blue;
+} */
+
+@media screen and (max-width: 900px) {
+  .AppLayout {
+    display: grid;
+    place-items: center;
+    width: 100%;
+  }
+}

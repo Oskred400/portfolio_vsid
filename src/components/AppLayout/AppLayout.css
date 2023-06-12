@@ -3,15 +3,15 @@ h1 {
       display: grid;
       place-items: center;
     /* margin-left: 10vw; */
-    .intro-text {
-      font-size: 25px;
-      font-weight: bold;
-      word-wrap: normal;
-      z-index: 10;
-      margin-left: 1vw;
-  }
   }
   
+  .intro-text {
+    font-size: 25px;
+    font-weight: bold;
+    word-wrap: normal;
+    z-index: 10;
+    margin-left: 1vw;
+}
   .NavBar {
     width: 100%;
   }
